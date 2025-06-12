@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be841265-e98b-4843-a2dd-7d9bfcdd7b86" name="Changes" comment="first commit from ananda">
-      <change afterPath="$PROJECT_DIR$/Ananda.txt" afterDir="false" />
+    <list default="true" id="be841265-e98b-4843-a2dd-7d9bfcdd7b86" name="Changes" comment="added new file Ananda.txt in Anand,s-Branch Branch">
+      <change afterPath="$PROJECT_DIR$/xyz.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,20 +21,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
-    {
-      "state": "OPEN"
-    }
-  ],
-  "lastFilter": {}
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Ananda0303/Demo.git",
-    "accountId": "d57e5650-9b1b-40e4-b79b-12a044dcb459"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kuntesv&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ananda0303/Demo.git&quot;,
+    &quot;accountId&quot;: &quot;d57e5650-9b1b-40e4-b79b-12a044dcb459&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -43,16 +42,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;AnandaFeatureBranch&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "Ananda's-Branch",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="be841265-e98b-4843-a2dd-7d9bfcdd7b86" name="Changes" comment="" />
@@ -61,23 +60,15 @@
       <option name="presentableId" value="Default" />
       <updated>1749572839125</updated>
     </task>
-    <task id="LOCAL-00001" summary="first commit from ananda">
+    <task id="LOCAL-00001" summary="added new file Ananda.txt in Anand,s-Branch Branch">
       <option name="closed" value="true" />
-      <created>1749661479819</created>
+      <created>1749732087308</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1749661479819</updated>
+      <updated>1749732087309</updated>
     </task>
-    <task id="LOCAL-00002" summary="first commit from ananda">
-      <option name="closed" value="true" />
-      <created>1749662512224</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1749662512224</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,7 +83,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first commit from ananda" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit from ananda" />
+    <MESSAGE value="added new file Ananda.txt in Anand,s-Branch Branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new file Ananda.txt in Anand,s-Branch Branch" />
   </component>
 </project>
